@@ -36,16 +36,18 @@ To run this application locally, follow these steps:
 
    ```bash
    git clone <repository_url>
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
 ``bash
 cd <project_directory>``
 
-3.Run the application using Maven:
+3. Run the application using Maven:
+
 ``bash
   mvn spring-boot:run``
 
-4.The application will start running at `http://localhost:8080`.
+4. The application will start running at
+   `http://localhost:8080`.
 
 ## Usage
 You can use tools like Postman to interact with the API endpoints. See API Endpoints section for more details.
