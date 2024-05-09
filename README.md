@@ -10,7 +10,6 @@ This Spring Boot application demonstrates how to build a RESTful API for perform
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Pagination](#pagination)
-- [Contributing](#contributing)
 
 ## Features
 
@@ -72,8 +71,6 @@ You can use tools like Postman to interact with the API endpoints. See API Endpo
 - size: Number of items per page (default: 10)
 - sort: Sorting options (e.g., price,desc for sorting by price in descending order)
 
-## Contributing
-   Contributions are welcome! If you have any suggestions or found a bug, feel free to open an issue or create a pull request.
 
 
 
