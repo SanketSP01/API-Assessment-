@@ -25,7 +25,6 @@ This Spring Boot application demonstrates how to build a RESTful API for perform
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- H2 Database (for simplicity, can be replaced with other databases)
 - Maven
 
 ## Getting Started
