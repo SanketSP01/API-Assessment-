@@ -11,7 +11,6 @@ This Spring Boot application demonstrates how to build a RESTful API for perform
 - [API Endpoints](#api-endpoints)
 - [Pagination](#pagination)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
